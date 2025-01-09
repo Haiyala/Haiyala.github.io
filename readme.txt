@@ -1,4 +1,4 @@
-# Mateus Haiyala - Software Engineer
+# Mateus Haiyala - Software and Telecommunication Engineer
 
 Welcome to my personal website! I'm Mateus Haiyala, a dedicated software engineer with a passion for building innovative solutions. Here's a brief overview of what you can find on my website:
 
